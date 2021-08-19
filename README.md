@@ -14,3 +14,11 @@ Collecting worthy articles along the way...
 2. [Variational Methods in Deep Learning](https://towardsdatascience.com/variational-methods-in-deep-learning-cad00c0ea018)
 3. [Intuitively Understanding Variational Autoencoders](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 
+### GRU (gated recurrent units)
+1. [Coursera video, simplified](https://www.coursera.org/lecture/nlp-sequence-models/gated-recurrent-unit-gru-agZiL)
+2. [Medium - Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
+3. [d2l.ai - Chp 9.1 GRU](https://d2l.ai/chapter_recurrent-modern/gru.html)
+
+### LSTM
+1. [Colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+2. [Coursera video](https://www.coursera.org/learn/nlp-sequence-models/lecture/KXoay/long-short-term-memory-lstm) 
