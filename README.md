@@ -22,3 +22,7 @@ Collecting worthy articles along the way...
 ### LSTM
 1. [Colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 2. [Coursera video](https://www.coursera.org/learn/nlp-sequence-models/lecture/KXoay/long-short-term-memory-lstm) 
+
+### Attention & Transformer
+1. Coursera - [Attention](https://www.coursera.org/learn/nlp-sequence-models/lecture/lSwVa/attention-model), [Tranformer](https://www.coursera.org/learn/nlp-sequence-models/lecture/YKatU/transformer-network-intuition), [Self-Attention](https://www.coursera.org/learn/nlp-sequence-models/lecture/lsvRK/self-attention), [Multi-Head Attention](https://www.coursera.org/learn/nlp-sequence-models/lecture/jsV2q/multi-head-attention), [Transformer n/w architecture](https://www.coursera.org/learn/nlp-sequence-models/lecture/Kf5Y3/transformer-network)
+2. YouTube; CodeEmporium - [Transformer Neural Networks Explained! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps)
