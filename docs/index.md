@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Articles-Collection
+Collecting worthy articles along the way...
 
-You can use the [editor on GitHub](https://github.com/vdivakar/Articles-Collection/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ML Fundamentals
+1. [A Gentle Introduction to Maximum Likelihood Estimation for Machine Learning](https://machinelearningmastery.com/what-is-maximum-likelihood-estimation-in-machine-learning/)
+2. [Discriminative vs Generative models - using Classification approach](https://mlwhiz.com/blog/2019/09/23/generative_approach_to_classification/?utm_campaign=a-generative-approach-to-classification&utm_medium=social_link&utm_source=missinglettr-linkedin)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Deep Learning
 
-```markdown
-Syntax highlighted code block
+### VAE
+1. [Variational Autoencoders - Intuition, Statistical motivation, Latent space, a generative model](https://www.jeremyjordan.me/variational-autoencoders/)⭐
+2. [Variational Methods in Deep Learning](https://towardsdatascience.com/variational-methods-in-deep-learning-cad00c0ea018)
+3. [Intuitively Understanding Variational Autoencoders](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
 
-# Header 1
-## Header 2
-### Header 3
+### GRU (gated recurrent units)
+1. [Coursera video, simplified](https://www.coursera.org/lecture/nlp-sequence-models/gated-recurrent-unit-gru-agZiL)
+2. [Medium - Understanding GRU Networks](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be)
+3. [d2l.ai - Chp 9.1 GRU](https://d2l.ai/chapter_recurrent-modern/gru.html)
 
-- Bulleted
-- List
+### LSTM
+1. [Colah's blog - Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+2. [Coursera video](https://www.coursera.org/learn/nlp-sequence-models/lecture/KXoay/long-short-term-memory-lstm) 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vdivakar/Articles-Collection/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Attention & Transformer
+1. Coursera - [Attention](https://www.coursera.org/learn/nlp-sequence-models/lecture/lSwVa/attention-model), [Tranformer](https://www.coursera.org/learn/nlp-sequence-models/lecture/YKatU/transformer-network-intuition), [Self-Attention](https://www.coursera.org/learn/nlp-sequence-models/lecture/lsvRK/self-attention), [Multi-Head Attention](https://www.coursera.org/learn/nlp-sequence-models/lecture/jsV2q/multi-head-attention), [Transformer n/w architecture](https://www.coursera.org/learn/nlp-sequence-models/lecture/Kf5Y3/transformer-network)
+2. YouTube; CodeEmporium - [Transformer Neural Networks Explained! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps)
