@@ -2,6 +2,8 @@
 Collecting worthy articles along the way...
 
 
+[Papers-Stack](https://vdivakar.github.io/Papers-Stack/)
+
 ## ML Fundamentals
 1. [A Gentle Introduction to Maximum Likelihood Estimation for Machine Learning](https://machinelearningmastery.com/what-is-maximum-likelihood-estimation-in-machine-learning/)
 2. [Discriminative vs Generative models - using Classification approach](https://mlwhiz.com/blog/2019/09/23/generative_approach_to_classification/?utm_campaign=a-generative-approach-to-classification&utm_medium=social_link&utm_source=missinglettr-linkedin)
